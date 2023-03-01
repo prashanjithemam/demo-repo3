@@ -1,4 +1,2 @@
-* text=auto
-
-* .jpg binary
-* .png binary
+*.vcproj    eol=crlf
+*.sh        eol=lf
